@@ -4,7 +4,7 @@
 
 text to image, generates image, upscales 4x, choose 1024x768 if you have low amount of vram on gpu
 
-!(text to image)[images/flux-t2i-upscale-4x.png]
+![text to image](images/flux-t2i-upscale-4x.png)
 
 
 ## `flux_bg_simple_relight_blur` 
@@ -19,4 +19,4 @@ text to image, generates image, upscales 4x, choose 1024x768 if you have low amo
  * blend it together (0.35, 0.4)
 
 
-!(background change)[images/flux-bg-simple-relight-blur.png]
+![background change](images/flux-bg-simple-relight-blur.png)
