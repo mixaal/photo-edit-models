@@ -20,3 +20,9 @@ text to image, generates image, upscales 4x, choose 1024x768 if you have low amo
 
 
 ![background change](images/flux-bg-simple-relight-blur.png)
+
+## `flux-redux-style`
+
+ * choose the image, automatically determines image dimension
+ * strenght param in ApplyStyle node reflects if prompt is suppressed (photo more like original) - 1.0, or lower values, more prompt emphasis (0.7)
+![style-transfer](images/flux-redux-style.png)
